@@ -5,7 +5,7 @@ This is a small project which might have some value to others or so says my girl
 
 ## Getting Started
 
-You will need a sql database reader to find the '''handle_id''' of the conversation you want to watch
+You will need a SQL database reader to find the `handle_id` of the conversation you want to watch
 
 Setup an IFTTT account at IFTTT.com
 
@@ -18,9 +18,11 @@ You will need to set up an HTTP Request Trigger with IFTTT.com.  Setup the trigg
 
 ### Installing
 
-Clone the repository to whatever directory you choose.  Modify the Personal_Info_sample with the correct values and rename it to Personal_Info.py.  If you fork this repo make sure the Personal_Info.py is added to your .gitignore
+Clone the repository to whatever directory you choose.  
 
-I use a .command file to launch the script using the Terminal on startup (Similar to a shell or bat script)
+Modify the `Personal_Info_Sample.py` with the correct values and rename it to `Personal_Info.py`.  If you fork this repo make sure the `Personal_Info.py` is added to your `.gitignore`
+
+I use a `.command` file to launch the script using the Terminal on startup (Similar to a shell or bat script)
 
 
 ## Built With
