@@ -6,6 +6,7 @@ This is a small project which might have some value to others or so says my girl
 ## Getting Started
 
 You will need a sql database reader to find the '''handle_id''' of the conversation you want to watch
+
 Setup an IFTTT account at IFTTT.com
 
 ### Prerequisites
