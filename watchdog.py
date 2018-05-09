@@ -2,6 +2,7 @@
  
 import sqlite3
 from sqlite3 import Error
+import personalInfo
  
  
 def create_connection(db_file):
